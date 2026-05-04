@@ -1,0 +1,6 @@
+{
+  "name": "PearlCare Dental",
+  "description": "A modern dental clinic appointment system featuring real-time booking, service browsing, and an AI-powered dental consultant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Consultation", "Real-time Scheduling", "Patient Dashboard"]
+}
